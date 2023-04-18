@@ -1,13 +1,8 @@
-# Introduction
+# Playout File Format
 
 This document defines the format for files to be supplied by media owners to Playout. Playout is an industry-wide tool that securely houses out-of-home media owner playout data, centralising the data for buyers to access in one place. Playout is currently in development, launching in summer 2023.
 
 The first published version of the file format has been agreed through consultation with the Playout Delivery Group and Playout Steering Committee.
-
-# Playout File Format
-
-This document defines the format for files to be supplied by Media Owners to Playout. The first published version has been agreed
-through consultation with the Playout Delivery Group and Playout Steering Committee.
 
 ## Version control
 
